@@ -1,3 +1,8 @@
-C:/Users/lover/Desktop/EntregaParcial2/cmake-build-debug/CMakeFiles/U00-E06.dir
-C:/Users/lover/Desktop/EntregaParcial2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lover/Desktop/EntregaParcial2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Juan/Desktop/libreria c++/Programacion 2/u1-recursividad-juan-ignacio-cabral-2303724/cmake-build-debug/CMakeFiles/Ej1.dir
+C:/Users/Juan/Desktop/libreria c++/Programacion 2/u1-recursividad-juan-ignacio-cabral-2303724/cmake-build-debug/CMakeFiles/Ej2.dir
+C:/Users/Juan/Desktop/libreria c++/Programacion 2/u1-recursividad-juan-ignacio-cabral-2303724/cmake-build-debug/CMakeFiles/Ej3.dir
+C:/Users/Juan/Desktop/libreria c++/Programacion 2/u1-recursividad-juan-ignacio-cabral-2303724/cmake-build-debug/CMakeFiles/new_target.dir
+C:/Users/Juan/Desktop/libreria c++/Programacion 2/u1-recursividad-juan-ignacio-cabral-2303724/cmake-build-debug/CMakeFiles/Ej5.dir
+C:/Users/Juan/Desktop/libreria c++/Programacion 2/u1-recursividad-juan-ignacio-cabral-2303724/cmake-build-debug/CMakeFiles/Ej6.dir
+C:/Users/Juan/Desktop/libreria c++/Programacion 2/u1-recursividad-juan-ignacio-cabral-2303724/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Juan/Desktop/libreria c++/Programacion 2/u1-recursividad-juan-ignacio-cabral-2303724/cmake-build-debug/CMakeFiles/rebuild_cache.dir
